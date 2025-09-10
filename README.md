@@ -2,9 +2,9 @@ GroundStudio L9110s Dual Motor Driver Module
 ====================================
 ![L9110s module REV0 0 2](https://github.com/GroundStudio/GroundStudio_L9110s_module/assets/77836107/67b6f87e-ae12-4fbc-a820-1d9cf08eb7e3)
 
-Get it from [ardushop.ro](https://ardushop.ro/ro/home/2525-modl9110s.html)
+Get it from [ardushop.ro](https://ardushop.ro/en/groundstudio/368-groundstudio-l9110s-module-6427854000385.html)
 
-Explore all the GroundStudio products at [GroundStudio.ro](https://groundstudio.ro/)
+Explore all the GroundStudio products at [ardushop.ro](https://ardushop.ro/en/37-groundstudio)
 
 Description
 -------------------
